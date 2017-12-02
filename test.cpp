@@ -4,6 +4,7 @@
 int main() { 
     std::string s = "alabala";
     std::string t = "tesla";
-    std::cout << s << " " << t;
+    std::string x = "xml";
+    std::cout << s << " " << t << " " << x;
     return 0; 
 }
